@@ -13,10 +13,8 @@
 #define     LCD_MODE      4
 
 
-#define     LCD_8BIT_MODE_CMD_PORT        DIO_PORTC
-#define     LCD_8BIT_MODE_DATA_PORT       DIO_PORTD
 
-#define     LCD_4BIT_MODE_CMD_PORT        DIO_PORTB
+#define     LCD_4BIT_MODE_CMD_PORT        DIO_PORTA
 #define     LCD_4BIT_MODE_DATA_PORT       DIO_PORTA
 
 
